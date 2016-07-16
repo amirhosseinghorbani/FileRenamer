@@ -24,10 +24,10 @@ with implementing them and use them in the Renamer constructor we can have custo
 even though there is two default class which implement default rules for Renamer.</br>
 
 ###Some Example With Statements :
--FILENAME	=>		Using Statements 		=> 		NewFilename
--11.txt		=>		LogDATE EXTENSION		=> 		Log07162016 .txt
--12.srt		=>		RANDOM5 INDEX EXTENSION	=>		sEK3j 1 .txt
--AMIR.exe	=>		DATE-TIME FILENAME		=>		07162016-08-59-33 AMIR.exe
+     -FILENAME	=>		Using Statements 		        => 		NewFilename
+     -11.txt    =>		LogDATE EXTENSION		        => 		Log07162016 .txt
+     -12.srt	=>		RANDOM5 INDEX EXTENSION	        =>		sEK3j 1 .txt
+     -AMIR.exe	=>		DATE-TIME FILENAME		        =>		07162016-08-59-33 AMIR.exe
 
 ###**NOTE : `INDEX` Will incerase++ and use in the list of files.**</br>
 ###**NOTE : `RANDOM` Get a Number which stick to `RANDOM` statement and must get a whitespace after parameter.**</br>
