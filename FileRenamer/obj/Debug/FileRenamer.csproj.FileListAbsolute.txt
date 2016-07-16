@@ -1,0 +1,4 @@
+D:\Home\Projects\C#\FileRenamer\FileRenamer\bin\Debug\FileRenamer.dll
+D:\Home\Projects\C#\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\Home\Projects\C#\FileRenamer\FileRenamer\obj\Debug\FileRenamer.dll
+D:\Home\Projects\C#\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
