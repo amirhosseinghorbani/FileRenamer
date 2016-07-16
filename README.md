@@ -7,8 +7,8 @@ Features :</br>
   
 ##Statements Rules :
      -All the characters that are legal to use in a filename are useable
-     -RNADOM : use a random string , Example:
-     -RNADOM10 => a string of characters with lenght between 1 to 10
+     -RANDOM : use a random string , Example:
+     -RANDOM10 => a string of characters with lenght between 1 to 10
      -INDEX : use a number to set index , Example:
      -INDEX => add 1,2,3... to files
      -FILENAME : use the default name as a substring for new filename
