@@ -25,10 +25,10 @@ even though there is two default class which implement default rules for Renamer
 
 ###Some Example With Statements :
 `
-FILENAME	=>		Using Statements 		=> 		NewFilename</br>
-11.txt		=>		LogDATE EXTENSION		=> 		Log07162016 .txt</br>
-12.srt		=>		RANDOM5 INDEX EXTENSION	=>		sEK3j 1 .txt</br>
-AMIR.exe	=>		DATE-TIME FILENAME		=>		07162016-08-59-33 AMIR.exe</br>
+FILENAME	=>		Using Statements 		=> 		NewFilename
+11.txt		=>		LogDATE EXTENSION		=> 		Log07162016 .txt
+12.srt		=>		RANDOM5 INDEX EXTENSION	=>		sEK3j 1 .txt
+AMIR.exe	=>		DATE-TIME FILENAME		=>		07162016-08-59-33 AMIR.exe
 `
 ###**NOTE : `INDEX` Will incerase++ and use in the list of files.**</br>
 ###**NOTE : `RANDOM` Get a Number which stick to `RANDOM` statement and must get a whitespace after parameter.**</br>
