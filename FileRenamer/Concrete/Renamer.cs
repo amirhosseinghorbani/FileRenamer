@@ -97,11 +97,11 @@ namespace FileRenamer
             //DATE
             int dateIndex = pattern.IndexOf("DATE");
             if (dateIndex != -1 && date.HasValue)
-                pattern = pattern.Replace("DATE", date.Value.ToString("hh-mm-ss"));
+                pattern = pattern.Replace("DATE", date.Value.ToString("MMddyyyy"));
             //TIME
             int timeIndex = pattern.IndexOf("TIME");
             if (timeIndex != -1 && time.HasValue)
-                pattern = pattern.Replace("TIME", time.Value.ToString("MMddyyyy"));
+                pattern = pattern.Replace("TIME", time.Value.ToString("hh-mm-ss"));
             //INDEX
             int iIndex = pattern.IndexOf("INDEX");
             if (iIndex != -1 && index > -1)
