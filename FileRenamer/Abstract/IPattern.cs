@@ -8,6 +8,6 @@ namespace FileRenamer
 {
     public interface IPattern
     {
-        string Patterner(object pattern);
+        string Patterner(ref string pattern);
     }
 }

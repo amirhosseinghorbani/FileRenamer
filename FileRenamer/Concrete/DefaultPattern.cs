@@ -18,11 +18,11 @@ namespace FileRenamer
         // DATE : use current Date in the filename
         // TIME : use current Time in the filename
 
-        public string Patterner(object pattern)
+        public string Patterner(ref string pattern)
         {
             //For the default pattern we prefer to use default rules of renamer
             //So just return the pattern that we got , but we can customize it.
-            return (string)pattern;
+            return pattern;
         }
     }
 }

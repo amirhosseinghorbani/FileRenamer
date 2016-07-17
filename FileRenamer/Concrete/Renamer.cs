@@ -73,6 +73,8 @@ namespace FileRenamer
 
         private void MakingNewFilename(ref string pattern, IDictionary<string, object> parameters)
         {
+            //Applying Pattern
+            Pattern.Patterner(ref pattern);
             //params
             string filename = null;
             string extension = null;
@@ -162,7 +164,6 @@ namespace FileRenamer
         public void RenameFileWithPattern(FileModel model, string pattern, int index = -1)
         {
             Dictionary<string, object> paramerters = new Dictionary<string, object>();
-            pattern = Pattern.Patterner(pattern);
             FileInfo info = new FileInfo(model.Path);
             int randomIndex = pattern.IndexOf("RANDOM");
             if (randomIndex != -1)
