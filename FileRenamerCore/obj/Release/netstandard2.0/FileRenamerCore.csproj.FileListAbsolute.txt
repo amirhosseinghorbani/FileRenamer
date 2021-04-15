@@ -1,0 +1,9 @@
+C:\dev\FileRenamer\FileRenamerCore\bin\Release\netstandard2.0\FileRenamerCore.deps.json
+C:\dev\FileRenamer\FileRenamerCore\bin\Release\netstandard2.0\FileRenamerCore.dll
+C:\dev\FileRenamer\FileRenamerCore\bin\Release\netstandard2.0\FileRenamerCore.pdb
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.csprojAssemblyReference.cache
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.AssemblyInfoInputs.cache
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.AssemblyInfo.cs
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.csproj.CoreCompileInputs.cache
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.dll
+C:\dev\FileRenamer\FileRenamerCore\obj\Release\netstandard2.0\FileRenamerCore.pdb

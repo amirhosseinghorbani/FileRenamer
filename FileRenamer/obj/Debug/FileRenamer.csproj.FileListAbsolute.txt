@@ -7,3 +7,8 @@ C:\Users\Amirhossein\Source\Repos\FileRenamer\FileRenamer\bin\Debug\FileRenamer.
 C:\Users\Amirhossein\Source\Repos\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
 C:\Users\Amirhossein\Source\Repos\FileRenamer\FileRenamer\obj\Debug\FileRenamer.dll
 C:\Users\Amirhossein\Source\Repos\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+C:\dev\FileRenamer\FileRenamer\bin\Debug\FileRenamer.dll
+C:\dev\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+C:\dev\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.CoreCompileInputs.cache
+C:\dev\FileRenamer\FileRenamer\obj\Debug\FileRenamer.dll
+C:\dev\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
